@@ -1,0 +1,1 @@
+INICIAR CONTENEDOR = docker compose --profile cpu up
